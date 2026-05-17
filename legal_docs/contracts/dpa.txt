@@ -1,0 +1,91 @@
+DATA PROCESSING AGREEMENT (DPA)
+Agreement Reference: DPA-2021-FINVAULT-CS-003
+
+This Data Processing Agreement is entered into as of April 1, 2021, between:
+
+FINVAULT TECHNOLOGIES GMBH, Registered in Germany, HRB 112233 ("Controller")
+and
+CLOUDSTORE EU GMBH, Registered in Ireland, CRO 556677 ("Processor")
+
+RECITALS
+
+Controller operates a digital banking application and intends to use Processor's cloud infrastructure services. This DPA governs the processing of personal data by Processor on behalf of Controller pursuant to GDPR.
+
+1. DEFINITIONS
+
+1.1 "GDPR" means Regulation (EU) 2016/679.
+1.2 "Personal Data" means any information relating to an identified or identifiable natural person as defined in GDPR Article 4(1).
+1.3 "Processing" has the meaning given in GDPR Article 4(2).
+1.4 "Data Subject" means an identifiable natural person whose Personal Data is processed.
+1.5 "Sub-processor" means any processor engaged by the Processor.
+
+2. SUBJECT MATTER, NATURE, AND PURPOSE
+
+2.1 Subject Matter: Cloud infrastructure hosting and database management services.
+2.2 Nature: Storage, retrieval, transmission, and backup of Personal Data.
+2.3 Purpose: Enabling Controller's digital banking application to store and process customer transaction data.
+2.4 Duration: Term of the Master Services Agreement, plus 30 days post-termination for secure deletion.
+2.5 Types of Personal Data: Names, email addresses, IBAN/bank account numbers, transaction histories, government ID numbers, device identifiers.
+2.6 Categories of Data Subjects: Customers of the Controller's digital banking application.
+
+3. PROCESSOR OBLIGATIONS
+
+3.1 Processor shall process Personal Data only on documented instructions from Controller.
+3.2 Processor shall ensure that persons authorised to process Personal Data are bound by confidentiality obligations.
+3.3 Processor shall implement appropriate technical and organisational measures in accordance with GDPR Article 32, including industry-standard security measures to protect against accidental or unlawful destruction, loss, alteration, or unauthorised disclosure.
+3.4 Processor shall assist Controller in ensuring compliance with Controller's obligations under Articles 32–36 GDPR.
+3.5 Processor shall not engage any Sub-processor without prior written consent of Controller.
+3.6 Processor shall maintain records of all processing activities as required under GDPR Article 30.
+
+4. SECURITY MEASURES
+
+4.1 Processor shall implement and maintain security measures including:
+    (a) Industry-standard security protocols for data at rest and in transit;
+    (b) Access controls limiting data access to authorised personnel;
+    (c) Regular security assessments of the infrastructure;
+    (d) Incident response procedures enabling notification within 24 hours of discovery.
+
+5. DATA BREACH NOTIFICATION
+
+5.1 Processor shall notify Controller without undue delay, and in any event within 24 hours, after becoming aware of a Personal Data Breach.
+5.2 Notification shall include: nature of breach, categories and number of Data Subjects affected, likely consequences, and measures taken or proposed.
+5.3 Controller remains responsible for notifying the competent supervisory authority within 72 hours of becoming aware, pursuant to GDPR Article 33.
+
+6. DATA SUBJECT RIGHTS
+
+6.1 Processor shall assist Controller in fulfilling Data Subject requests (access, rectification, erasure, portability, restriction, objection) within the timeframes required by GDPR.
+
+7. INTERNATIONAL TRANSFERS
+
+7.1 Processor shall not transfer Personal Data outside the European Economic Area without prior written consent of Controller and implementation of appropriate safeguards (Standard Contractual Clauses, adequacy decisions, or binding corporate rules).
+
+8. DELETION AND RETURN
+
+8.1 Upon termination, Processor shall, at Controller's election, delete or return all Personal Data within 30 days.
+8.2 Processor shall provide written confirmation of deletion.
+
+9. AUDIT RIGHTS
+
+9.1 Controller shall have the right to audit Processor's compliance with this DPA upon 30 days' written notice.
+9.2 Processor shall cooperate fully with audits and provide access to relevant documentation.
+
+10. LIABILITY AND INDEMNIFICATION
+
+10.1 Each party shall be liable for damages caused by processing in breach of this DPA or GDPR.
+10.2 Processor shall indemnify Controller for fines, penalties, or third-party claims arising from Processor's breach of this DPA.
+10.3 LIMITATION OF LIABILITY: Processor's total aggregate liability under this DPA shall not exceed EUR 500,000.
+
+11. GOVERNING LAW AND JURISDICTION
+
+This DPA shall be governed by the laws of Germany. Any disputes shall be subject to the exclusive jurisdiction of the courts of Frankfurt am Main.
+
+12. ANNEXES
+
+Annex I: Description of Processing (Subject Matter, Purposes, Types of Data, Categories of Data Subjects)
+Annex II: Technical and Organisational Security Measures
+Annex III: List of Approved Sub-processors
+Annex IV: Standard Contractual Clauses (Module 2: Controller-to-Processor)
+
+SIGNATURES:
+FinVault Technologies GmbH: __________ Date: April 1, 2021
+CloudStore EU GmbH: _________________ Date: April 1, 2021

@@ -1,0 +1,51 @@
+SUPERIOR COURT OF CALIFORNIA — SAN FRANCISCO COUNTY
+Case No. CGC-22-598341
+NEXTECH INC. v. SARAH CHEN
+
+RULING ON MOTION FOR PRELIMINARY INJUNCTION
+NON-COMPETE CLAUSE ENFORCEABILITY UNDER CALIFORNIA LAW
+Decided: August 22, 2022
+
+I. INTRODUCTION
+
+NexTech Inc. ("Employer") seeks a preliminary injunction to prevent its former software engineer, Sarah Chen ("Employee"), from working at RivalSaaS Inc. in Austin, Texas. The employment agreement contained a two-year, nationwide non-compete clause.
+
+II. CALIFORNIA BUSINESS AND PROFESSIONS CODE § 16600
+
+California Business and Professions Code Section 16600 states: "Except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void."
+
+California courts have consistently interpreted § 16600 as a near-categorical ban on non-compete agreements. See Edwards v. Arthur Andersen LLP, 44 Cal. 4th 937 (2008). The Supreme Court of California held in Edwards that § 16600 "evinces a settled legislative policy in favor of open competition and employee mobility."
+
+The only statutory exceptions to § 16600 are: (1) sale of a business (§ 16601); (2) dissolution of a partnership (§ 16602); and (3) dissolution of an LLC (§ 16602.5). None of these exceptions apply in the present case.
+
+III. CHOICE-OF-LAW ANALYSIS
+
+The employment agreement contains a Texas choice-of-law provision. NexTech argues that Texas law, which permits reasonable non-competes, should govern the enforceability of the clause.
+
+California courts apply the governmental interest test to choice-of-law conflicts. Under this test, California law will apply if: (1) California has a materially greater interest in the determination of the issue; and (2) applying foreign law would be contrary to a fundamental California public policy.
+
+The court finds that California has a materially greater interest in protecting the employment rights of a California-based employee who worked in California. Moreover, § 16600 represents a fundamental public policy of the State of California — the protection of employee mobility and open competition. See Application Group, Inc. v. Hunter Group, Inc., 61 Cal. App. 4th 881 (1998). Courts have repeatedly refused to apply out-of-state law when doing so would circumvent § 16600.
+
+The Texas choice-of-law provision is UNENFORCEABLE as applied to the non-compete clause.
+
+IV. PRELIMINARY INJUNCTION STANDARD
+
+To obtain a preliminary injunction, NexTech must demonstrate: (1) a likelihood of success on the merits; (2) likelihood of irreparable harm absent injunction; (3) balance of equities in its favor; and (4) that the injunction is in the public interest.
+
+Because the non-compete clause is void under § 16600, NexTech cannot demonstrate likelihood of success on the merits. This failure is dispositive.
+
+V. CONFIDENTIAL INFORMATION EXCEPTION
+
+The court notes that while the non-compete clause is void, NexTech retains remedies for misappropriation of trade secrets and breach of the NDA's confidentiality provisions. Non-compete clauses are categorically void; confidentiality obligations are not.
+
+VI. CALIFORNIA SB 699 (Effective January 1, 2024)
+
+The legislature has further codified these protections via SB 699 (2023), which: (1) voids non-compete agreements regardless of where they were signed; (2) makes it unlawful for an employer to even threaten enforcement; and (3) provides employees with a private right of action including attorney's fees.
+
+HOLDING
+
+The motion for preliminary injunction is DENIED. The non-compete clause is void and unenforceable under California Business and Professions Code § 16600. The Texas choice-of-law provision does not alter this result.
+
+Judge Marcus Delgado
+Superior Court of California, San Francisco County
+Filed: August 22, 2022

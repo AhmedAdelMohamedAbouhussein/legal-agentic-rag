@@ -1,0 +1,56 @@
+EUROPEAN DATA PROTECTION BOARD — CASE SUMMARY
+Reference: EDPB-2023-44-FINTECH
+INFRINGEMENT DECISION: GDPR ARTICLES 32 AND 83
+FinVault Technologies GmbH v. CloudStore EU
+
+SUMMARY OF DECISION — December 8, 2023
+
+I. BACKGROUND
+
+FinVault Technologies GmbH ("Controller") is a Germany-based fintech company operating a digital banking application. CloudStore EU GmbH ("Processor") provided cloud infrastructure services under a Data Processing Agreement (DPA) executed in 2021.
+
+In July 2023, a SQL injection attack exposed personal data of 512,000 FinVault customers, including names, IBANs, transaction histories, and government ID numbers.
+
+II. GDPR ARTICLE 28 — DATA PROCESSING AGREEMENT
+
+Under GDPR Article 28, processing by a processor shall be governed by a contract that sets out the subject matter, duration, nature and purpose of the processing, the type of personal data, and the obligations and rights of the controller.
+
+The DPA between FinVault and CloudStore stated that CloudStore would "implement industry-standard security measures." The DPA did not specify: encryption standards (e.g., AES-256), network segmentation requirements, patch management SLAs, or penetration testing obligations.
+
+The Board finds that the DPA's vague reference to "industry-standard security measures" is insufficient to satisfy Article 28(3)(c), which requires the contract to specify that the processor "implements all measures required pursuant to Article 32."
+
+III. GDPR ARTICLE 32 — SECURITY OF PROCESSING
+
+Article 32(1) requires controllers and processors to implement "appropriate technical and organisational measures" including:
+(a) the pseudonymisation and encryption of personal data;
+(b) ongoing confidentiality, integrity, availability and resilience of processing systems;
+(c) ability to restore availability following an incident; and
+(d) a process for regularly testing and evaluating measures.
+
+The investigation revealed: (1) customer transaction data was stored in plaintext; (2) the vulnerable SQL endpoint had not received a security patch available since March 2023; (3) no penetration test had been conducted in 18 months.
+
+The Board holds that these failures constitute a violation of Article 32. "Industry-standard security" — without encryption of sensitive financial data — does not satisfy Article 32's requirements. The standard is not what is common in an industry, but what is "appropriate" given "the risks of varying likelihood and severity."
+
+IV. CONTROLLER vs. PROCESSOR LIABILITY
+
+CloudStore EU acted as a data processor under Article 4(8). A processor is directly liable under GDPR where it: (1) has not complied with Article 28 obligations; or (2) has acted outside the instructions of the controller.
+
+The Board finds CloudStore EU is independently liable for Article 32 violations. The inadequate DPA does not shield either party.
+
+V. FINES UNDER ARTICLE 83
+
+Article 83(4) provides fines up to €10,000,000 or 2% of total worldwide annual turnover for violations of Article 32.
+
+Article 83(5) provides fines up to €20,000,000 or 4% of total worldwide annual turnover for violations of Article 5, 6, 7, 9, or Articles 12-22.
+
+The Board imposes:
+- Against FinVault Technologies GmbH: €4,200,000 (Article 32 violation)
+- Against CloudStore EU GmbH: €1,800,000 (Article 32 violation)
+
+VI. LIABILITY CAPS IN DPAs
+
+The DPA contained a liability cap of €500,000. The Board confirms that contractual liability caps between controller and processor do not limit regulatory fines imposed by supervisory authorities under Article 83. The cap may limit the controller's indemnification claim against the processor in private litigation.
+
+CONCLUSION
+
+Vague DPA security language does not satisfy GDPR Article 28 or 32. Both controller and processor bear regulatory liability. DPA liability caps do not limit supervisory authority fines.

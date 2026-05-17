@@ -1,0 +1,54 @@
+COURT OF APPEALS — COMMERCIAL DIVISION
+Case No. 2021-CA-04471
+ALPHA CORP v. BETASUPPLY INC.
+
+OPINION ON FORCE MAJEURE AND COVID-19 SUPPLY CHAIN DISRUPTIONS
+Decided: March 15, 2021
+
+BACKGROUND
+
+Alpha Corp entered into a supply agreement with BetaSupply Inc. on January 10, 2018, for the supply of electronic components over a 36-month period. Section 14.2 of the agreement, titled "Force Majeure," provided as follows:
+
+"Neither party shall be liable for any failure or delay in performance of its obligations under this Agreement to the extent such failure or delay is caused by circumstances beyond that party's reasonable control, including but not limited to: acts of God, natural disasters, war, governmental action, fire, flood, or earthquake."
+
+In March 2020, the World Health Organization declared COVID-19 a global pandemic. Governmental authorities in BetaSupply's jurisdiction issued mandatory factory closure orders, rendering performance impossible for a period of 11 weeks.
+
+LEGAL ANALYSIS
+
+I. Force Majeure Construction
+
+Force majeure clauses are interpreted narrowly by courts. The clause must specifically contemplate the intervening event, or the event must fall within a broadly defined catch-all category. See Kel Kim Corp. v. Central Markets, Inc., 70 N.Y.2d 900 (1987).
+
+The clause in question lists "governmental action" as a qualifying event. Courts in this jurisdiction have consistently held that mandatory government closure orders constitute "governmental action" within the meaning of commercial force majeure clauses. See also Gulf Oil Corp. v. Federal Power Commission, 563 F.2d 588, 611 (3d Cir. 1977).
+
+II. COVID-19 as Governmental Action
+
+The factory closure orders issued by governmental authorities were binding legal instruments. BetaSupply was legally prohibited from operating its manufacturing facilities. The court finds that this governmental action falls squarely within the enumerated force majeure events.
+
+The fact that the clause does not expressly mention "pandemic" or "epidemic" is not dispositive. Courts apply the ejusdem generis principle: where a list of specific items is followed by a general clause, the general clause is not limited to the same type as the specific items. The enumeration of "governmental action" is sufficiently broad to encompass pandemic-related government orders.
+
+III. Foreseeability and Notice
+
+To invoke force majeure, BetaSupply must demonstrate: (1) the event was beyond its reasonable control; (2) the event was unforeseeable; (3) timely written notice was provided; and (4) it took reasonable steps to mitigate the impact.
+
+The court finds that a global pandemic causing mandatory government closure orders was not reasonably foreseeable as of the 2018 contract date. BetaSupply provided written notice on March 18, 2020, within 48 hours of the closure order. Mitigation efforts included sourcing alternative suppliers and seeking regulatory waivers.
+
+IV. Frustration of Purpose
+
+Under the doctrine of frustration of purpose, where an unforeseen event destroys the principal purpose of a contract, performance may be excused. See Krell v. Henry [1903] 2 KB 740. Alpha Corp's principal purpose — obtaining components for product manufacturing — was not entirely frustrated; it was temporarily delayed. Frustration requires permanent destruction of purpose, not temporary impediment.
+
+HOLDING
+
+The court holds that BetaSupply's failure to deliver components during the government-mandated closure period (March 18, 2020 – June 1, 2020) is excused under the force majeure clause. BetaSupply is NOT excused from performance after June 1, 2020, when restrictions were lifted. Alpha Corp's claim for damages arising from the March–June 2020 period is DISMISSED. Claims for post-June 2020 delays are remanded for further proceedings.
+
+DAMAGES
+
+Alpha Corp's damages for the excused period are nil. For any post-excused-period delays, the contract provides liquidated damages at $500 per day of delay, which this court finds to be a genuine pre-estimate of loss rather than an unenforceable penalty.
+
+CONCLUSION
+
+Force majeure clauses listing "governmental action" encompass COVID-19 pandemic closure orders. The doctrine of frustration does not apply where performance is temporarily, not permanently, impeded.
+
+Judge Patricia Holloway
+Commercial Division, Court of Appeals
+Filed: March 15, 2021

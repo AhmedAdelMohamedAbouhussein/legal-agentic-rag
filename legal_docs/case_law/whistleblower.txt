@@ -1,0 +1,56 @@
+UNITED STATES DISTRICT COURT — SOUTHERN DISTRICT OF NEW YORK
+Case No. 1:23-cv-04521
+MIRANDA HAYES v. SAFEGUARD TECHNOLOGIES INC.
+
+MEMORANDUM OPINION — WHISTLEBLOWER RETALIATION
+Decided: April 18, 2023
+
+I. INTRODUCTION
+
+Plaintiff Miranda Hayes ("Hayes") alleges she was wrongfully terminated in retaliation for reporting product safety concerns to Safeguard Technologies Inc.'s CEO. Safeguard claims the termination was for performance deficiencies documented in Performance Improvement Plans (PIPs).
+
+II. AT-WILL EMPLOYMENT AND ITS EXCEPTIONS
+
+New York follows the at-will employment doctrine: an employer may terminate an employee at any time for any reason or no reason, subject to exceptions created by statute or public policy.
+
+Statutory exceptions to at-will employment include: the New York Human Rights Law (discrimination), WARN Act (mass layoffs), and federal whistleblower statutes.
+
+The public policy exception applies where an employee is terminated for refusing to engage in illegal conduct or for reporting violations of law.
+
+III. SARBANES-OXLEY ACT (SOX) — 18 U.S.C. § 1514A
+
+SOX § 806 protects employees of public companies and their contractors who report securities fraud or violations of SEC rules. The employee must have a reasonable belief that the conduct violates one of the enumerated provisions.
+
+Safeguard Technologies Inc. is a private company. The court examines whether SOX applies to private company employees who work for subsidiaries or contractors of public companies.
+
+The Supreme Court in Lawson v. FMR LLC, 571 U.S. 429 (2014) extended SOX protections to employees of private contractors and subcontractors of public companies. However, the court finds that Safeguard is not a contractor or subcontractor of any public company. SOX protection does not directly apply.
+
+IV. DODD-FRANK ACT — 15 U.S.C. § 78u-6
+
+Dodd-Frank's anti-retaliation provision protects individuals who report information to the SEC. To qualify, the employee must have actually reported to the SEC or have a reasonable belief their information could contribute to an SEC enforcement action.
+
+Hayes did not report to the SEC; she reported internally to the CEO. In Digital Realty Trust, Inc. v. Somers, 583 U.S. 149 (2018), the Supreme Court held that only employees who report directly to the SEC qualify for Dodd-Frank's anti-retaliation protections. Internal-only reporting is insufficient.
+
+V. NEW YORK LABOR LAW § 740 (PRIVATE SECTOR WHISTLEBLOWER)
+
+New York Labor Law § 740 prohibits retaliation against an employee who discloses or threatens to disclose a violation of a law, rule, or regulation that creates a "substantial and specific danger to the public health or safety."
+
+Hayes reported that a product firmware defect could cause electrical failures in medical devices used in hospitals. This implicates public health and safety. The court finds that Hayes' report falls within the scope of § 740 protection.
+
+To establish a retaliation claim under § 740, Hayes must show: (1) she engaged in protected activity; (2) the employer knew of the activity; and (3) retaliation was causally connected to the protected activity.
+
+The 18-day gap between Hayes' safety report and the PIP initiation, combined with the CEO's contemporaneous email expressing frustration, creates a strong inference of causation. The burden shifts to Safeguard to articulate a legitimate non-retaliatory reason.
+
+VI. PRETEXTUALITY OF PIPs
+
+The court scrutinizes Safeguard's performance evidence. The PIPs were initiated 18 days after Hayes' report. Hayes had received "exceeds expectations" reviews for the prior two annual cycles. The PIP metrics were retroactively applied performance standards not previously communicated to Hayes.
+
+The court finds that a reasonable jury could conclude the PIPs were pretextual.
+
+VII. HOLDING
+
+Summary judgment for Safeguard is DENIED. Hayes' claim under New York Labor Law § 740 proceeds to trial. Federal whistleblower claims under SOX and Dodd-Frank are DISMISSED as inapplicable to a private company employee reporting internally.
+
+Judge Diana Fontaine
+U.S. District Court, S.D.N.Y.
+April 18, 2023

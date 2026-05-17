@@ -1,0 +1,54 @@
+COURT OF APPEAL — COMMERCIAL DIVISION
+Case No. 2022-COMM-7734
+FASTSHIP LOGISTICS LTD. v. PEAKMARKET E-COMMERCE INC.
+
+JUDGMENT ON LIQUIDATED DAMAGES AND PENALTY CLAUSE ENFORCEABILITY
+Decided: November 3, 2022
+
+I. FACTS
+
+PeakMarket E-Commerce Inc. ("Buyer") and FastShip Logistics Ltd. ("Carrier") executed a Peak Season Delivery Agreement on September 1, 2021. Section 8.3 provided:
+
+"In the event of delivery delay beyond the agreed schedule, Carrier shall pay Buyer liquidated damages of USD $50.00 per package per day of delay. The parties agree this represents a genuine pre-estimate of loss."
+
+FastShip delivered 8,000 packages an average of 5 days late during the November–December 2021 peak season. PeakMarket claims $2,000,000 in liquidated damages (8,000 × $50 × 5).
+
+II. ENGLISH LAW — CAVENDISH SQUARE TEST
+
+The UK Supreme Court in Cavendish Square Holding BV v. Makdessi [2015] UKSC 67 reformulated the penalty clause test. The traditional "genuine pre-estimate of loss" test from Dunlop Pneumatic Tyre Co. v. New Garage and Motor Co. Ltd. [1915] AC 79 was refined:
+
+The true test is whether the impugned provision is a secondary obligation which imposes a detriment on the contract-breaker out of all proportion to any legitimate interest of the innocent party in the enforcement of the primary obligation.
+
+Cavendish Square held that courts must assess whether a clause: (1) protects a legitimate business interest; and (2) imposes a remedy which is not extravagant or unconscionable in comparison to that interest.
+
+III. U.S. APPROACH — RESTATEMENT (SECOND) OF CONTRACTS § 356
+
+Under American law, a liquidated damages clause is enforceable if: (1) the damages were difficult to estimate at the time of contracting; and (2) the stipulated amount is a reasonable forecast of compensatory damages. An unenforceable penalty is one that is grossly disproportionate to actual harm.
+
+See Wassenaar v. Towne Hotel, 111 Wis. 2d 518 (1983): courts examine whether the parties had a reasonable basis for predicting loss at the time of contracting.
+
+IV. APPLICATION
+
+A. PeakMarket's Legitimate Interest
+
+PeakMarket operates a flash-sale e-commerce platform dependent on timely holiday deliveries. Late deliveries resulted in: customer refunds (documented at $12.50/package), negative reviews (quantifiable reputational harm), and lost repeat purchases (industry-standard estimate: $25 per lost customer).
+
+Total estimated actual loss per package: approximately $37.50–$50.00. The $50/package/day clause is not grossly disproportionate.
+
+B. Day-Rate Accumulation
+
+The $50/day accumulation is more aggressive. On day 5, the total exposure is $250/package. PeakMarket's actual loss remains approximately $37.50–$50.00 total per late package. The court finds that the per-day accumulation beyond day 1 is punitive and unenforceable as a penalty under both English and U.S. standards.
+
+V. HOLDING
+
+The $50/package liquidated damages clause is ENFORCEABLE for day 1 of delay only. For days 2 onwards, the daily accumulation is an unenforceable penalty. Total enforceable damages: 8,000 packages × $50 × 1 day = $400,000.
+
+FastShip is ordered to pay PeakMarket $400,000.
+
+VI. LESSON FOR DRAFTERS
+
+To draft an enforceable liquidated damages clause: (1) insert recitals documenting the basis for the pre-estimate; (2) attach an agreed damages calculation schedule; (3) use a capped amount rather than an unlimited per-day accrual.
+
+Judge Oliver Whitmore
+Court of Appeal, Commercial Division
+November 3, 2022

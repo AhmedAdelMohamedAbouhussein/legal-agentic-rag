@@ -1,0 +1,95 @@
+SUPPLY AGREEMENT
+Agreement No. SA-2018-0041
+
+This Supply Agreement ("Agreement") is entered into as of January 10, 2018, by and between:
+
+ALPHA CORP, a Delaware corporation ("Buyer")
+and
+BETASUPPLY INC., a California corporation ("Supplier")
+
+1. SCOPE OF SUPPLY
+
+Supplier agrees to supply electronic components as specified in Schedule A (the "Products") to Buyer for a period of thirty-six (36) months from the Effective Date.
+
+2. PURCHASE ORDERS AND DELIVERY
+
+2.1 Buyer shall issue Purchase Orders with a minimum 30-day lead time.
+2.2 Supplier shall confirm receipt within 48 hours and deliver by the specified date.
+2.3 Delivery terms: DDP (Delivered Duty Paid) to Buyer's facility in Austin, Texas.
+
+3. PRICING AND PAYMENT
+
+3.1 Unit prices are fixed for Year 1. Years 2 and 3 subject to CPI adjustment not exceeding 3%.
+3.2 Payment terms: Net 45 days from invoice date.
+3.3 Late payment shall accrue interest at 1.5% per month.
+
+4. QUALITY AND INSPECTION
+
+4.1 All Products must conform to Buyer's technical specifications set forth in Exhibit B.
+4.2 Buyer has the right to inspect Products within 10 business days of delivery.
+4.3 Rejected Products must be replaced within 15 business days at Supplier's cost.
+
+5. WARRANTIES
+
+5.1 Supplier warrants that all Products: (a) conform to specifications; (b) are free from defects in material and workmanship; (c) are new and not refurbished; (d) do not infringe any third-party intellectual property rights.
+5.2 Warranty period: eighteen (18) months from delivery.
+
+6. INTELLECTUAL PROPERTY
+
+6.1 All tooling, dies, and specifications provided by Buyer remain Buyer's property.
+6.2 Supplier retains ownership of its pre-existing manufacturing know-how.
+
+7. CONFIDENTIALITY
+
+7.1 Each party agrees to keep confidential the other party's technical specifications, pricing, and business information.
+7.2 This obligation survives termination for five (5) years.
+
+8. LIMITATION OF LIABILITY
+
+8.1 Neither party shall be liable for indirect, incidental, or consequential damages.
+8.2 Supplier's total aggregate liability shall not exceed the total fees paid in the 12 months prior to the claim.
+
+9. INDEMNIFICATION
+
+9.1 Supplier shall indemnify Buyer against third-party claims arising from product defects, IP infringement, or Supplier's negligence.
+
+10. TERMINATION
+
+10.1 Either party may terminate for material breach upon 30 days' written notice if such breach remains uncured.
+10.2 Buyer may terminate for convenience upon 90 days' written notice.
+10.3 Upon termination, Supplier must fill all outstanding Purchase Orders already confirmed.
+
+11. COMPLIANCE
+
+11.1 Supplier shall comply with all applicable laws, including export controls, anti-bribery (FCPA, UK Bribery Act), and modern slavery regulations.
+11.2 Supplier shall maintain and provide upon request certifications: ISO 9001, RoHS, REACH.
+
+12. DISPUTE RESOLUTION
+
+12.1 The parties shall attempt to resolve disputes through senior management negotiation within 30 days.
+12.2 Unresolved disputes shall be submitted to binding arbitration under JAMS rules in New York, NY.
+12.3 Arbitration award shall be final and enforceable in any court of competent jurisdiction.
+12.4 Governing Law: State of New York, excluding conflict of law provisions.
+
+13. INSURANCE
+
+13.1 Supplier shall maintain: Commercial General Liability ($2M per occurrence), Product Liability ($5M), Workers' Compensation (statutory limits).
+
+14. FORCE MAJEURE
+
+14.1 Neither party shall be liable for failure or delay in performance caused by circumstances beyond their reasonable control, including but not limited to: acts of God, natural disasters, war, terrorism, governmental action, fire, flood, earthquake, or labor strikes.
+14.2 The affected party must provide written notice within 5 business days of the force majeure event.
+14.3 If the force majeure event continues for more than ninety (90) days, either party may terminate this Agreement without penalty upon 15 days' written notice.
+14.4 The affected party must use commercially reasonable efforts to mitigate the impact of the force majeure event.
+
+15. GENERAL PROVISIONS
+
+15.1 This Agreement constitutes the entire understanding between the parties regarding its subject matter.
+15.2 Amendments must be in writing and signed by authorized representatives of both parties.
+15.3 Waivers must be in writing; failure to enforce any right is not a waiver.
+15.4 Severability: If any provision is unenforceable, the remainder continues in full force.
+15.5 Notices: To Alpha Corp, Attn: Chief Procurement Officer. To BetaSupply, Attn: VP Sales.
+
+SIGNATURES:
+Alpha Corp: _______________________ Date: January 10, 2018
+BetaSupply Inc.: ___________________ Date: January 10, 2018

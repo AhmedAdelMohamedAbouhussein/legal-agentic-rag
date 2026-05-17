@@ -1,0 +1,112 @@
+SAAS ENTERPRISE SUBSCRIPTION AGREEMENT
+Agreement ID: SAAS-ENT-2021-00892
+
+This SaaS Enterprise Subscription Agreement ("Agreement") is entered into as of January 15, 2021, between:
+
+CLOUDOPS PLATFORM INC., a Delaware corporation ("Vendor")
+and
+ACME STARTUP LLC, a Delaware limited liability company ("Customer")
+
+1. SUBSCRIPTION SERVICES
+
+1.1 Vendor grants Customer a non-exclusive, non-transferable subscription to access and use the CloudOps Platform ("Services") as described in Order Form No. 892 attached hereto.
+1.2 Subscription Tier: Enterprise Plus
+1.3 Permitted Users: Up to 150 named users
+1.4 Initial Subscription Term: January 15, 2021 – January 14, 2022
+
+2. FEES AND PAYMENT
+
+2.1 Annual Subscription Fee: USD $120,000 per year, billed annually in advance.
+2.2 Payment is due within 30 days of invoice.
+2.3 Overdue payments accrue interest at 1.5% per month.
+2.4 All fees are non-refundable except as expressly stated herein.
+
+3. IMPLEMENTATION AND ONBOARDING
+
+3.1 Vendor shall provide up to 40 hours of onboarding support at no additional charge.
+3.2 Customer is responsible for user training and administration.
+
+4. SERVICE LEVELS
+
+4.1 Vendor commits to 99.5% monthly uptime excluding scheduled maintenance.
+4.2 Service credits for downtime: 10% of monthly fee per hour below SLA (capped at 30% per month).
+
+5. DATA AND PRIVACY
+
+5.1 Customer owns all Customer data uploaded to the Services.
+5.2 Vendor shall process Customer data only as a data processor as described in the DPA (Exhibit C).
+5.3 Vendor shall maintain SOC 2 Type II certification and provide reports upon request.
+
+6. ACCEPTABLE USE
+
+6.1 Customer shall not: (a) reverse engineer the Services; (b) use the Services for illegal purposes; (c) share login credentials; (d) sublicense or resell access.
+
+7. INTELLECTUAL PROPERTY
+
+7.1 Vendor retains all intellectual property rights in the Services, platform, and underlying technology.
+7.2 Customer retains all rights in Customer data and Customer-created content.
+7.3 Vendor may use anonymised, aggregated Customer data to improve its services.
+
+8. CONFIDENTIALITY
+
+8.1 Both parties agree to keep confidential any non-public information disclosed in connection with this Agreement.
+
+9. WARRANTIES
+
+9.1 Vendor warrants that the Services will perform materially in accordance with the Documentation.
+9.2 DISCLAIMER: EXCEPT AS EXPRESSLY SET FORTH HEREIN, THE SERVICES ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+10. LIMITATION OF LIABILITY
+
+10.1 NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES.
+10.2 VENDOR'S TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED THE FEES PAID BY CUSTOMER IN THE 12 MONTHS PRECEDING THE CLAIM.
+
+11. INDEMNIFICATION
+
+11.1 Vendor shall indemnify Customer against third-party claims that the Services infringe any intellectual property right.
+11.2 Customer shall indemnify Vendor against claims arising from Customer's data or breach of this Agreement.
+
+12. TERM AND RENEWAL
+
+12.1 Initial Term: This Agreement commences on January 15, 2021 and expires on January 14, 2022 ("Initial Term").
+12.2 Automatic Renewal: UNLESS EITHER PARTY PROVIDES WRITTEN NOTICE OF NON-RENEWAL AT LEAST NINETY (90) DAYS PRIOR TO THE END OF THE THEN-CURRENT TERM, THIS AGREEMENT SHALL AUTOMATICALLY RENEW FOR SUCCESSIVE ONE-YEAR TERMS AT THE THEN-CURRENT SUBSCRIPTION FEE, WHICH MAY BE ADJUSTED BY VENDOR BY UP TO 10% WITH 60 DAYS' PRIOR NOTICE.
+12.3 Notice of Non-Renewal must be delivered via email to renewals@cloudops.io and via first-class mail to Vendor's registered address.
+12.4 Customer acknowledges receipt and review of this automatic renewal provision.
+
+13. TERMINATION FOR CAUSE
+
+13.1 Either party may terminate upon 30 days' written notice of material breach if such breach is not cured within the notice period.
+13.2 Upon termination for cause by Customer, Vendor shall refund pro-rated unused fees.
+
+14. EFFECTS OF TERMINATION
+
+14.1 Upon termination, Customer's access to the Services shall be immediately disabled.
+14.2 Vendor shall retain Customer data for 30 days post-termination, after which it may be deleted.
+14.3 Customer may export data during the 30-day retention period.
+
+15. DISPUTE RESOLUTION
+
+15.1 Disputes shall first be subject to 30 days of senior management negotiation.
+15.2 Unresolved disputes shall be resolved by binding arbitration under AAA Commercial Rules in San Francisco, CA.
+
+16. GOVERNING LAW
+
+This Agreement is governed by the laws of the State of Delaware.
+
+17. ELECTRONIC SIGNATURE
+
+The parties agree that electronic signatures via DocuSign constitute valid and binding signatures under the Electronic Signatures in Global and National Commerce Act (E-SIGN Act) and the Uniform Electronic Transactions Act (UETA).
+
+18. ENTIRE AGREEMENT
+
+This Agreement, including all Exhibits and Order Forms, constitutes the entire agreement between the parties.
+
+CUSTOMER SIGNATURE:
+By: James Thornton, CEO, Acme Startup LLC
+Date: January 15, 2021
+Electronic Signature ID: DS-2021-0115-7823
+
+VENDOR SIGNATURE:
+By: Rebecca Liu, VP Sales, CloudOps Platform Inc.
+Date: January 15, 2021
+Electronic Signature ID: DS-2021-0115-7824

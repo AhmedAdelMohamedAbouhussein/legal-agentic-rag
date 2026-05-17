@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+chroma_db/
+*.egg-info/
+.DS_Store
+extract_pdf.py
+Legal_AI_Assistant_Project_Outline.md
+
+generate_doc.py

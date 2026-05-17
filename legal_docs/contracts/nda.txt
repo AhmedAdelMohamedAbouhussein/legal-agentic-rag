@@ -1,0 +1,37 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual NDA is entered into as of September 1, 2022, between MERIDIAN ANALYTICS INC. ("Party A") and GLOBALTECH SOLUTIONS LTD. ("Party B").
+
+1. CONFIDENTIAL INFORMATION
+
+"Confidential Information" means any non-public information disclosed by one party to the other, including: trade secrets, customer lists, pricing structures, deal pipeline information, financial projections, technical specifications, and product roadmaps. Customer lists, pricing structures, and deal pipeline information are specifically included.
+
+2. EXCLUSIONS
+
+Does not include: (a) publicly known information; (b) independently developed information; (c) information received lawfully from a third party; (d) information required by law to be disclosed.
+
+3. OBLIGATIONS
+
+The Receiving Party shall: (a) hold Confidential Information in strict confidence; (b) use it solely for evaluating a potential business relationship; (c) not disclose to third parties without written consent; (d) not use for competitive purposes or to solicit the Disclosing Party's customers; (e) promptly notify of any unauthorised disclosure.
+
+4. TERM
+
+Agreement effective for 3 years. Obligations regarding trade secrets survive indefinitely. All other obligations survive for 5 years from date of disclosure.
+
+5. RETURN OR DESTRUCTION
+
+Upon request, Receiving Party shall return or destroy all Confidential Information within 10 business days.
+
+6. INJUNCTIVE RELIEF
+
+Breach would cause irreparable harm. Either party may seek injunctive relief without bond in addition to other remedies.
+
+7. DTSA NOTICE
+
+Pursuant to 18 U.S.C. 1833(b): An individual shall not be held criminally or civilly liable for disclosure of a trade secret made in confidence to a government official or attorney for reporting a suspected violation of law.
+
+8. GOVERNING LAW: State of New York.
+
+SIGNATURES:
+Meridian Analytics Inc.: ________________ Date: September 1, 2022
+GlobalTech Solutions Ltd.: ______________ Date: September 1, 2022

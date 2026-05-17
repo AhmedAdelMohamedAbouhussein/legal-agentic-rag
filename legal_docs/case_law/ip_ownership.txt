@@ -1,0 +1,53 @@
+UNITED STATES DISTRICT COURT — NORTHERN DISTRICT OF CALIFORNIA
+Case No. 3:22-cv-08812
+DATAWORKS INC. v. DR. AMARA OSEI
+
+MEMORANDUM AND ORDER ON CROSS-MOTIONS FOR SUMMARY JUDGMENT
+INTELLECTUAL PROPERTY OWNERSHIP — EMPLOYMENT CONTEXT
+Filed: February 14, 2023
+
+I. BACKGROUND
+
+DataWorks Inc. ("Employer") employed Dr. Amara Osei ("Employee") as a Senior Data Scientist from 2019 to 2022. Her employment agreement contained an IP Assignment Clause (Section 9) stating:
+
+"Employee hereby assigns to Company all right, title, and interest in and to any and all Inventions, whether or not patentable, that Employee may solely or jointly conceive, develop, reduce to practice, or cause to be conceived or developed or reduced to practice during the period of Employee's employment."
+
+During evenings and weekends in 2021, Dr. Osei developed a novel federated learning algorithm ("the Algorithm") using her personal laptop, personal cloud computing credits, and without using any DataWorks proprietary data or systems.
+
+II. CALIFORNIA LABOR CODE §§ 2870–2872
+
+California Labor Code § 2870 carves out protection for employee inventions developed without employer resources:
+
+"§ 2870(a): Any provision in an employment agreement which provides that an employee shall assign, or offer to assign, any of his or her rights in an invention to his or her employer shall not apply to an invention that the employee developed entirely on his or her own time without using the employer's equipment, supplies, facilities, or trade secret information except for inventions that: (1) relate at the time of conception or reduction to practice of the invention to the employer's business, or actual or demonstrably anticipated research or development of the employer; or (2) result from any work performed by the employee for the employer."
+
+The statute is self-executing: any contract provision attempting to assign protected inventions is void as contrary to public policy. § 2872 requires employers to notify employees of § 2870 rights.
+
+III. ANALYSIS
+
+A. Personal Resources Test
+
+The evidence is undisputed: Dr. Osei used her personal MacBook Pro and personal AWS account. No DataWorks systems, credentials, or data were used. The personal resources prong is satisfied.
+
+B. "During Employment" Does Not Equal "Employer Owns"
+
+DataWorks argues that "conceived during employment" in the IP clause triggers ownership regardless of resources. The court rejects this argument. California courts have consistently held that § 2870 supersedes overbroad IP assignment clauses. See Cubic Corp. v. Marty, 185 Cal. App. 3d 438 (1986); Morlife Inc. v. Perry, 56 Cal. App. 4th 1514 (1997).
+
+C. Relatedness to Employer's Business
+
+DataWorks secondarily argues that the Algorithm "relates to the employer's business" because DataWorks also works in machine learning. The court applies a narrow interpretation: the invention must relate to DataWorks' "actual or demonstrably anticipated research or development." Mere industry overlap is insufficient. Dr. Osei worked on database optimization at DataWorks; federated learning was not within DataWorks' research roadmap. The relatedness exception does not apply.
+
+D. Overbreadth of the IP Clause
+
+The court finds the IP Assignment Clause in Section 9 is overbroad insofar as it purports to assign inventions protected by § 2870. Under § 2872, DataWorks was required to provide written notice of § 2870 limitations. The onboarding documentation did not include this notice, constituting a further violation.
+
+IV. HOLDING
+
+The Algorithm developed by Dr. Osei is HER PROPERTY. DataWorks' motion for summary judgment is DENIED. Dr. Osei's motion for summary judgment is GRANTED. DataWorks is ordered to execute any documents necessary to confirm Dr. Osei's ownership of the Algorithm.
+
+ATTORNEY'S FEES
+
+Dr. Osei is entitled to reasonable attorney's fees under California Code of Civil Procedure § 1021.5, as this litigation vindicated an important public policy interest in employee invention rights.
+
+Judge Sandra Reeves
+U.S. District Court, Northern District of California
+February 14, 2023
